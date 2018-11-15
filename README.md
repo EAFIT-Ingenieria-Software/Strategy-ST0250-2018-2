@@ -26,7 +26,7 @@ Son encapsulados e intercambiables entre sí. Cambia el relleno de la hamburgues
 
 Puedes pedir cualquier hamburguesa que te guste. Pero para un chef, hacer una hamburguesa sigue el mismo procedimiento general: preparar el pan, cocinar el relleno y luego colocarlo  entre los panes superior e inferior.
 
-El anterior ejemplo fue implementado en el lenguaje **Java** con el objetivo de evidenciar el comportamiento dle patrón de diseño.
+El anterior ejemplo fue implementado en el lenguaje **Java** con el objetivo de evidenciar el comportamiento del patrón de diseño.
 
 ## Modelo de Clases
 ![picture](StrategyDiagram.jpg)
